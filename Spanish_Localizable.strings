@@ -98,7 +98,7 @@
 "Destination"="Destino";
 "Destination item was moved or deleted"="El destino del archivo fue movido o borrado";
 "Developer"="Desarrollador";
-"Device SN"="Serial";
+"Device SN"="Número de serie del dispositivo";
 "Dimension"="Dimensión";
 "Disk usage"="Uso del disco";
 "Dismiss"="Descartar";
@@ -133,7 +133,7 @@
 "Enable authentication"="Activar autenticación";
 "Encryption"="Cifrado";
 "Enter extension"="Introduce la extensión";
-"Enter password to continue"="\nIntroduce la contraseña para continuar";
+"Enter password to continue"="\nUsa Touch ID o introduce la contraseña correcta para continuar";
 "Error"="Error";
 "Error when creating directory"="Error al crear el directorio";
 "Error when creating file"="Error al crear el archivo";
@@ -163,7 +163,10 @@
 "File name"="Nombre de archivo";
 "File system"="Partición";
 "Find text"="Buscar texto";
+"Fixed"="Fija";
+"Floating"="Flotante";
 "Folder"="Carpeta";
+"Font size"="Tamaño de fuente";
 "Format"="Formato";
 "Frame rate"="Imágenes por segundo";
 "Free"="Libre";
@@ -298,6 +301,7 @@
 "Sidebar"="Barra lateral";
 "Size"="Tamaño";
 "Skip"="Omitir";
+"Small font size"="Detalles de carpetas y archivos";
 "Sort buttons"="Mostrar secciones";
 "Special thanks to"="Especial gracias a...";
 "Start"="Empezar";
@@ -318,7 +322,7 @@
 "Text Editor"="Editor de texto";
 "The appropriate apps are not found on this device"="Las aplicaciones no se encuentran en este dispositivo";
 "Theme"="Temas";
-"Theme changed. You need to re-launch Filza to see new theme. Do you want to exit it now ?"="Necesitas reiniciar Filza para mostrar el nuevo tema ¿Quieres hacerlo ahora?";
+"Theme changed. You need to re-launch Filza to see new theme. Do you want to exit it now ?"="Necesitas reiniciar Filza para aplicar los cambios.\n\n¿Quieres hacerlo ahora?";
 "This app does not exist"="La aplicación no existe";
 "This file was not downloaded"="El archivo no se ha descargado";
 "This folder is empty"="La carpeta está vacía";
@@ -327,6 +331,7 @@
 "Title"="Título";
 "To"="A";
 "To: "="A: ";
+"Top toolbar"="Barra de herramientas superior";
 "Track"="Canción";
 "Track %ld of %ld"="Canción %ld de %ld";
 "Track number"="Número de canción";
@@ -396,8 +401,3 @@
 "video"="Vídeo";
 "was changed. Upload this file back to server"="ha sido modificado, sube de nuevo el archivo al servidor.";
 "was decompressed"="ha sido descomprimido";
-"Top toolbar" = "Top toolbar";
-"Fixed" = "Fixed";
-"Floating" = "Floating";
-"Font size"="Font size";
-"Small font size"="Small font size";

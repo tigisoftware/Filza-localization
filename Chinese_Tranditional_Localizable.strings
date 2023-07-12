@@ -8,11 +8,11 @@
 "%d hidden item(s)"="%d 個隱藏的項目(s)";
 "%d item(s)"="%d 項目(s)";
 "\/var\/stash parser"="\/var\/stash 解析器";
-"ACCEPTING CONNECTION AT"="接受連接";
+"ACCEPTING CONNECTION AT"="接受連線";
 "AIR BROWSER"="遠端管理";
 "About"="關於";
 "About us"="關於我們";
-"Accepting connection at:"="接受連接在:";
+"Accepting connection at:"="接受連線在:";
 "Access"="存取";
 "Access Permissions"="存取權限";
 "Access password"="存取密碼";
@@ -118,7 +118,7 @@
 "Do you want to restore all Filza settings ?"="你想還原所有的 Filza 設定嗎?";
 "Do you want to run this executable file in Terminal. This operation may be unsafe ?"="您確定在終端中開啟此可執行檔？這可能會有安全隱憂，除非您信任此檔案。";
 "Do you want to save all changes ?"="您確定保存所有變更？";
-"Do you want to uninstall selected application(s)"="你想卸載選定的應用程式嗎";
+"Do you want to uninstall selected application(s)"="你想移除選定的應用程式嗎";
 "Download"="下載";
 "Download URL"="下載地址";
 "Download directory"="下載路徑";
@@ -130,7 +130,7 @@
 "Empty"="空白";
 "Empty file"="空白檔案";
 "Enable WebDAV server"="啟用 WebDAV 伺服器";
-"Enable air browser"="開啟遠程管理";
+"Enable air browser"="開啟遠端管理";
 "Enable authentication"="啟用身份驗證";
 "Encryption"="編碼";
 "Enter extension"="輸入副檔名";
@@ -141,7 +141,7 @@
 "Error when creating symlink"="無法建立符號連結";
 "Error when deleting"="刪除失敗";
 "Error when moving"="移動失敗";
-"Error when open symbolic link"="打開快捷鏈接失敗";
+"Error when open symbolic link"="開啟符號連結失敗";
 "Error when renaming"="重新命名失敗";
 "Error. Insufficient privileges"="錯誤。權限不足";
 "Execute"="執行";
@@ -265,7 +265,7 @@
 "Replace"="取代";
 "Required"="必要";
 "Resolution"="解析度";
-"Respring"="重新啟動";
+"Respring"="重新啟動主畫面";
 "Restricted Delete"="限制刪除";
 "Retype your password:"="請再次輸入密碼:";
 "Revision"="修訂";
@@ -394,4 +394,4 @@
 "untitled file.txt"="未命名檔案.txt";
 "untitled folder"="未命名資料夾";
 "was changed. Upload this file back to server"="已經變更. 上傳此檔案到伺服器";
-"was decompressed"="被解壓";
+"was decompressed"="已解壓縮";
